@@ -1,7 +1,7 @@
 # Linguagem C
 <a href = "https://2.bp.blogspot.com/-7izTYOK0YDM/WvIEaHxq9oI/AAAAAAAAAT0/vHq228nvyigjfHUYZkQ6UzhEHezRcWeyQCLcBGAs/s1600/sd.gif"/>![Virtual](https://github.com/veiganobruh/C-Programming-Language/blob/master/virtual_gif.gif)</a>
 ### André Backes - Livro: Linguagem C  Completa e descomplicada :book: 
-<p> As respostas dos exercícios do livro. </p>
+<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Andre%20Backes-%20%20Linguagem%20C%20-%20Completa%20e%20descomplicada%20%20-%20Exercicios" > <p>As respostas dos exercícios do livro.</p> </a> 
 <p> Os arquivos estão em formato .c e para testar o código é necessário complila-lo localmente ou na internet </p>
 <p><a href = "https://www.tutorialspoint.com/compile_c_online.php" >Tutorialspoint</a></p>
 
@@ -43,7 +43,7 @@
    	</li>
 	<li>
 	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis" title = "Desvio_padrao">Desvio_padrao</a><p>:white_medium_small_square:<strong>Definição: </strong>Raiz quadrada da variância</p>
-	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis/Desvio_padrao" title = "Desvio_padrao.exe">:white_medium_small_square:<strong>Executável: </strong>Desvio_padrao.exe</a>
+	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis/Desvio_padrao" title = "Desvio_padrao.exe">:white_medium_small_square:<strong>Executável: </strong>Desvio_Padrao.exe</a>
    	</li>
 	<li>
 	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis" title = "Equacao_de_Segundo_Grau">Equacao_de_Segundo_Grau</a><p>:white_medium_small_square:<strong>Definição: </strong>Encontrar as raízes reais da equação</p>
