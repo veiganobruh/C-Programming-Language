@@ -3,8 +3,7 @@
 ### André Backes - Livro: Linguagem C  Completa e descomplicada :book: 
 <a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Andre%20Backes-%20%20Linguagem%20C%20-%20Completa%20e%20descomplicada%20%20-%20Exercicios" > <p>As respostas dos exercícios do livro.</p> </a> 
 <p> Os arquivos estão em formato .c e para testar o código é necessário complila-lo localmente ou na internet </p>
-<p><a href = "https://www.tutorialspoint.com/compile_c_online.php" >Tutorialspoint</a></p>+
-
+<p><a href = "https://www.tutorialspoint.com/compile_c_online.php" >Tutorialspoint</a></p>
 
 ### Bibliotecas :book:
 <ol>
