@@ -3,11 +3,13 @@
 ### André Backes - Livro: Linguagem C  Completa e descomplicada :book: 
 <a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Andre%20Backes-%20%20Linguagem%20C%20-%20Completa%20e%20descomplicada%20%20-%20Exercicios" > <p>As respostas dos exercícios do livro.</p> </a> 
 <p> Os arquivos estão em formato .c e para testar o código é necessário complila-lo localmente ou na internet </p>
-<p><a href = "https://www.tutorialspoint.com/compile_c_online.php" >Tutorialspoint</a></p>
+<p><a href = "https://www.tutorialspoint.com/compile_c_online.php" >Tutorialspoint</a></p>+
+
 
 ### Bibliotecas :book:
 <ol>
- 	<li>Angulo</li> 	
+	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas">
+ 	<li>Angulo</li>	
 	<li>Area_Raio_Circulo</li> 	
 	<li>Contagem_Regressiva</li> 	
 	<li>ConverteVelocidade</li> 	
@@ -21,13 +23,14 @@
 	<li>Soma_Dos_Divisores_De_Um_Numero</li> 	
 	<li>Temperatura </li>	
 	<li>Traingulo_de_Floyd</li>
+	</a>
  </ol>
 
 ### Programas :computer:
 <ol>
 	<li>
 	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis" >Contagem_regressiva</a><p>:white_medium_small_square:<strong>Definição: </strong>Contagem regressiva de 10 até 0</p>
-	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis/Contagem_Regressiva" title = " 	Contagem_regressiva.exe">:white_medium_small_square:<strong>Executável: </strong>Contagem_regressiva.exe</a>
+	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis/Contagem_Regressiva" title = " 	Contagem_regressiva.exe">:white_medium_small_square:<strong>Executável: </strong>Contagem_regressiva.exe</a>	
   	</li>
 	<li>
 	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis" title = "Converte_Area_Raio_Circuloe">Converte_Area_Raio_Circulo</a><p>:white_medium_small_square:<strong>Definição: </strong>Encontra a área do círculo pelo raio e encontra o raio do círculo pela área </p>
@@ -85,4 +88,5 @@
 	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis" title = "Valor_E">Valor_E</a><p>:white_medium_small_square:<strong>Definição: </strong>E = (1/1!) + (1/2!) + (1/3!) + (1/4!) +...+ (1/N!)</p>
 	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis/Valor_E" title = "Valor_E.exe">:white_medium_small_square:<strong>Executável: </strong>Valor_E.exe</a>
    	</li>	
+	
 </ol>
