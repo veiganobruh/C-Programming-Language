@@ -7,25 +7,23 @@
 
 ### Bibliotecas :book:
 <ol>
-	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas">
- 	<li>Angulo</li>	
-	<li>Area_Raio_Circulo</li> 	
-	<li>Contagem_Regressiva</li> 	
-	<li>ConverteVelocidade</li> 	
-	<li>DesvioPadrao</li> 		
-	<li>Fatorial</li> 	
-	<li>Harmonica</li> 	
-	<li>Media_Arit</li> 
-	<li>Raizes_Equacao_Segundo_grau</li>
-	<li>Sequencia_Fibonacci</li>
-	<li>Soma </li>	
-	<li>Soma_Dos_Divisores_De_Um_Numero</li> 	
-	<li>Temperatura </li>	
-	<li>Traingulo_de_Floyd</li>
-	</a>
+ 	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Angulo">Angulo</a></li>	
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Area_Raio_Circulo">Area_Raio_Circulo</a></li> 	
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Contagem_Regressiva">Contagem_Regressiva</a></li> 	
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/ConverteVelocidade">ConverteVelocidade</a></li> 	
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/DesvioPadrao">DesvioPadrao</a></li> 		
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Fatorial">Fatorial</a></li> 	
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Harmonica">Harmonica</a></li> 	
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Media_Arit">Media_Arit</a></li> 
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Raizes_Equacao_Segundo_grau">Raizes_Equacao_Segundo_grau</a></li>
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Sequencia_Fibonacci">Sequencia_Fibonacci</a></li>
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Soma">Soma</a></li>	
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Soma_Dos_Divisores_De_Um_Numero">Soma_Dos_Divisores_De_Um_Numero</a></li> 	
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Temperatura">Temperatura</a></li>	
+	<li><a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Bibliotecas/Traingulo_de_Floyd">Traingulo_de_Floyd</a></li>
  </ol>
 
-### Programas :computer:
+### Executaveis :computer:
 <ol>
 	<li>
 	<a href = "https://github.com/veiganobruh/C-Programming-Language/tree/master/Executaveis" >Contagem_regressiva</a><p>:white_medium_small_square:<strong>Definição: </strong>Contagem regressiva de 10 até 0</p>
